@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string-array name="li_contact">
+        <item>Mrittunjoy 9932994242</item>
+        <item>Pallabi 8899001122</item>
+        <item>Kamal 9898776600</item>
+    </string-array>
+</resources>
